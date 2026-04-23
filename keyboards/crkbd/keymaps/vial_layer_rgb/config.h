@@ -11,3 +11,6 @@
 // Match the 6-layer dynamic keymap from the .vil file
 #undef DYNAMIC_KEYMAP_LAYER_COUNT
 #define DYNAMIC_KEYMAP_LAYER_COUNT 6
+
+// Sync layer state to slave half so RGB indicator works on both sides
+#define SPLIT_LAYER_STATE_ENABLE
