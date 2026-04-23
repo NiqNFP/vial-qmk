@@ -3,3 +3,5 @@ VIAL_ENABLE             = yes
 
 TAP_DANCE_ENABLE        = yes
 VIAL_TAP_DANCE_ENABLE   = yes
+
+ENCODER_MAP_ENABLE      = yes
